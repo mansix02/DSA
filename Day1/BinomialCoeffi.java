@@ -1,6 +1,6 @@
 package Day1;
 
-public class BinomialCoffi {
+public class BinomialCoeffi {
 
     public static int factorial(int n){
         int fact=1;
